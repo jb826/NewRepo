@@ -1,0 +1,20 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "React RU tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Evgenii Belyavskii",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "dependencies": {
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-popup": "^0.4.2",
+    "fetch-polyfill": "^0.8.2"
+  }
+}
